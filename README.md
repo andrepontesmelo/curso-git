@@ -1,7 +1,7 @@
 # Curso-git
 
-Conteudo do arquivo
+ * Conteudo do arquivo
 
-Meio do arquivo. =)
+ * Meio do arquivo. =)
 
-Fim do arquivo
+ * Fim do arquivo
