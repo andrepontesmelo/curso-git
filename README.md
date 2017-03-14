@@ -1,3 +1,3 @@
-# curso-git
+# Curso-git
 
 Conteudo do arquivo
